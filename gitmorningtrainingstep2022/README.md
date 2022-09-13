@@ -1,1 +1,0 @@
-# gitmorningtrainingstep2022
