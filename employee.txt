@@ -1,4 +1,9 @@
-some stuff
+some stuff change
 
+<<<<<<< HEAD
 some more stuff
+=======
+
+some more stuff dev2change
+>>>>>>> dev2
 
