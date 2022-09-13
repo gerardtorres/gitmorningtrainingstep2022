@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 some stuff 
+=======
+some stuff change
+>>>>>>> dev2
 
 
-some more stuff
+some more stuff dev2change
 
 
 
