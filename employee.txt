@@ -1,4 +1,10 @@
 some stuff
 
 
+<<<<<<< HEAD
 some more stuff
+=======
+some more stuff
+
+some more more stuff
+>>>>>>> dev2
